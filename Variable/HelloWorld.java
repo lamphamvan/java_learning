@@ -4,10 +4,13 @@ public class HelloWorld{
 		float height;
 		int age;
 		name = "Pham Van Lam";
-		height = 1.7f;
+		height = 1.72f;
 		age = 30;
+		System.out.print("Name: ");
 		System.out.println(name);
+		System.out.print("Height: ");
 		System.out.println(height);
+		System.out.print("Age: ");
 		System.out.println(age);
 	}
 }
